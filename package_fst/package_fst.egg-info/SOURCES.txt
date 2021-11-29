@@ -1,9 +1,0 @@
-setup.py
-package_fst.egg-info/PKG-INFO
-package_fst.egg-info/SOURCES.txt
-package_fst.egg-info/dependency_links.txt
-package_fst.egg-info/entry_points.txt
-package_fst.egg-info/namespace_packages.txt
-package_fst.egg-info/requires.txt
-package_fst.egg-info/top_level.txt
-time_pkg/get_time_pkg/get_time_module.py
