@@ -1,0 +1,3 @@
+[console_scripts]
+get_time = time_pkg.pretty_print_pkg.pretty_print_module:main
+
