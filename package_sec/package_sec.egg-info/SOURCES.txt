@@ -1,9 +1,0 @@
-setup.py
-package_sec.egg-info/PKG-INFO
-package_sec.egg-info/SOURCES.txt
-package_sec.egg-info/dependency_links.txt
-package_sec.egg-info/entry_points.txt
-package_sec.egg-info/namespace_packages.txt
-package_sec.egg-info/requires.txt
-package_sec.egg-info/top_level.txt
-time_pkg/pretty_print_pkg/pretty_print_module.py
